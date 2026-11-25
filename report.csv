@@ -1,0 +1,4 @@
+page,hits,errors,error_rate,avg_ms
+/checkout,30000,20000,0.6666666666666666,180.0
+/home,40000,0,0.0,115.0
+/product,30000,0,0.0,150.0
